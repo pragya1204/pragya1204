@@ -7,7 +7,7 @@
   align="right" 
   alt="GIF" 
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpiZXd5b29rY3hveW9seG9iNHNrNXc2cXNieGZncHYwZWZmOHhsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" 
-  width="300" 
+  width="350" 
 />
 
 - An ML & Web development enthusiast.
