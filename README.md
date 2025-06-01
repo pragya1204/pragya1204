@@ -19,6 +19,8 @@
 
 
 <br/>
+ <p>Contact me: <a href="mailto:pragyaaa620@gmail.com">pragyaaa620@gmail.com</a></p>
+
 
 
 
