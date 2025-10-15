@@ -10,9 +10,9 @@
   width="350" 
 />
 
-- An ML & Web development enthusiast.
+- ML & Web development enthusiast.
 - A Computer Engineering Undergraduate Student. 
-- Currently learning and growing my skillset in machine learning, deep learning, NLP, data structures and algorithms.
+- Currently learning and growing my skillset in machine learning, deep learning, mlOps, data structures and algorithms.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 
